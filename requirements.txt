@@ -1,0 +1,24 @@
+# Core Python libraries
+pandas
+numpy
+matplotlib
+seaborn
+joblib
+
+# Scikit-learn and related ML tools
+scikit-learn
+shap
+imblearn
+
+# Azure ML SDK (for loan prediction workflows)
+azure-ai-ml
+azure-identity
+mlflow
+azureml-mlflow
+
+# Jupyter (for notebooks)
+jupyter
+
+# Optional: For compatibility with scripts and notebooks
+os
+shutil
