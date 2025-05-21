@@ -19,6 +19,5 @@ azureml-mlflow
 # Jupyter (for notebooks)
 jupyter
 
-# Optional: For compatibility with scripts and notebooks
-os
-shutil
+# Web App
+streamlit
