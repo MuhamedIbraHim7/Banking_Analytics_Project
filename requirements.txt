@@ -21,3 +21,4 @@ jupyter
 
 # Web App
 streamlit
+docker
